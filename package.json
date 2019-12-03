@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mattmunch/node-beginner-book/issues"
   },
-  "homepage": "https://github.com/Mattmunch/node-beginner-book#readme"
+  "homepage": "https://github.com/Mattmunch/node-beginner-book#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
 }
